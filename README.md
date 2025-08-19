@@ -4,12 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Engineering student at the **Faculty of Engineering of the Army (FIE)**. Currently in my 5th year (2019 - 2026).
-- 🔒 Passionate about **Cybersecurity, Blockchain, and Web3**.
-- 💼 Working as a **Full Stack PHP Developer & Kommo CRM Administrator** at *Imprenet*.  
-- 🚀 Experience in ERP system development, process integration, and customer service automation.  
-- 📡 Completed training at **Cisco Networking Academy**, **Educación IT**, **Talento Tech / ETH KIPU**, and other programs.  
-- 🌱 Currently learning **Solidity, Laravel, React, and Web3 technologies**.  
+- 🎓 Computer Engineering student at the **Facultad de Ingeniería del Ejército (FIE)** — **2019–2026**.
+- 💼 **Full Stack PHP Developer & Kommo CRM Admin** at *Imprenet*.
+- 🚀 Experience building internal ERP systems, integrating business processes, and automating customer operations.
+- 📡 Training across **Cisco Networking Academy**, **Educación IT**, **Talento Tech / ETH KIPU**, and more.
+- 🌱 Currently focused on **Python** and **Django** for backend and security tooling.
 
 ---
 
@@ -20,46 +19,46 @@
 
 ---
 
-### 🧰 Tools & Technologies
+### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,mysql,github,figma,raspberrypi,arduino,vscode,clion,tensorflow,linux" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,github,raspberrypi,arduino,vscode,clion,linux" />
 </p>
 
 ---
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,laravel,solidity" />
+  <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
 ---
 
 ### 🎓 Education
-- **Computer Engineering** – Faculty of Engineering of the Army (2019 - 2026)  
-- **University Course in Cybersecurity** – Cisco Networking Academy (2022)  
-- **Codo a Codo** – Web Development (JavaScript/Node.js) (2024)  
-- **Talento Tech / ETH KIPU** – Ethereum Developer Pack, Security & Auditing, Web3 Toolkit (2025)  
-- Multiple certifications in **Blockchain, Cybersecurity, Testing, Web Development** (Movistar, Egg, Educación IT, SecOps Group, Cisco).  
+- **Facultad de Ingeniería del Ejército (FIE)** — Computer Engineering (**2019–2026**)
+- **Cisco Networking Academy** — University Course in Cybersecurity (2022)
+- **Codo a Codo** — Web Development (JavaScript/Node.js) (2024)
+- **Talento Tech / ETH KIPU** — Ethereum Developer Pack, Security & Auditing, Web3 Toolkit (2025)
 
 ---
 
-### 🏅 Certifications (selected)
-- 🛡️ **CyberOps Associate** – Cisco  
-- 🔗 **Certified Blockchain Practitioner** – The SecOps Group  
-- 🌐 **Ethereum Developer Pack** – Talento Tech / ETH KIPU  
-- 🔐 **Cybersecurity Course** – Fundación Movistar  
-- 💻 **Testing Manual / Web Programming / Argentina Programa** – Egg Live  
+### 🏅 Selected Certifications
+- 🛡️ **CyberOps Associate** — Cisco  
+- 🔗 **Certified Blockchain Practitioner** — The SecOps Group  
+- 🌐 **Ethereum Developer Pack** — Talento Tech / ETH KIPU  
+- 🔐 **Cybersecurity Course** — Fundación Movistar  
+- 💻 **Testing Manual / Web Programming / Argentina Programa** — Egg Live  
 
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AgustinGimenezFIE&show_icons=true&theme=tokyonight)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGimenezFIE&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/agustinhgimenez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:agustingimenez@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="mailto:agustingimenez@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </p>
