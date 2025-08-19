@@ -62,16 +62,13 @@
 ### 🎖️ Badges
 <p align="center">
   <a href="https://www.credly.com/badges/85240fc4-b195-4a4c-aefe-e609e20dae65/linked_in_profile">
-    <img src="https://images.credly.com/size/110x110/images/85240fc4-b195-4a4c-aefe-e609e20dae65/Cisco.png" alt="Cisco Networking Devices" />
+    <img src="https://img.shields.io/badge/Cisco%20Networking%20Devices-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/3d51785b-896b-4920-8bbc-1d6013098da6/linked_in_profile">
-    <img src="https://images.credly.com/size/110x110/images/3d51785b-896b-4920-8bbc-1d6013098da6/Cisco.png" alt="Cisco Networking Basics" />
+    <img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/d26ee5c8-e2fa-41e7-8646-c04d014ddf89/linked_in_profile">
-    <img src="https://images.credly.com/size/110x110/images/d26ee5c8-e2fa-41e7-8646-c04d014ddf89/Cisco.png" alt="Cisco Intro to Cybersecurity" />
-  </a>
-  <a href="https://www.credly.com/badges/3a13f1f8-efcf-45ad-85ef-174a4f9c87e6/linked_in_profile">
-    <img src="https://images.credly.com/size/110x110/images/CertProf-Scrum-Foundation.png" alt="Scrum Foundation" />
+    <img src="https://img.shields.io/badge/Cisco%20Intro%20to%20Cybersecurity-green?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
 </p>
 
