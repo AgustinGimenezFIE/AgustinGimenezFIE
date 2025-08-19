@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,php,java,solidity" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,php,java,laravel,solidity" />
 </p>
 
 ---
@@ -23,6 +23,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,mysql,github,raspberrypi,arduino,vscode,clion,linux" />
 </p>
+
+#### 🔐 Cybersecurity & Networking
+- **Cisco Packet Tracer** – Network simulation  
+- **Wireshark** – Network analysis and traffic sniffing  
+- **Nmap** – Network scanning and security auditing  
+- **Kali Linux** – Penetration testing & cybersecurity toolkit  
+- **Metasploitable** – Vulnerable environment for security testing  
 
 ---
 
@@ -34,10 +41,10 @@
 ---
 
 ### 🎓 Education
-- **Facultad de Ingeniería del Ejército (FIE)** — Computer Engineering (**2019–2026**)
-- **Cisco Networking Academy** — University Course in Cybersecurity (2022)
-- **Codo a Codo** — Web Development (JavaScript/Node.js) (2024)
-- **Talento Tech / ETH KIPU** — Ethereum Developer Pack, Security & Auditing, Web3 Toolkit (2025)
+- **Facultad de Ingeniería del Ejército (FIE)** — Computer Engineering (**2019–2026**)  
+- **Cisco Networking Academy** — University Course in Cybersecurity (2022)  
+- **Codo a Codo** — Web Development (JavaScript/Node.js) (2024)  
+- **Talento Tech / ETH KIPU** — Ethereum Developer Pack, Security & Auditing, Web3 Toolkit (2025)  
 
 ---
 
@@ -51,8 +58,8 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AgustinGimenezFIE&show_icons=true&theme=tokyonight)
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=AgustinGimenezFIE&show_icons=true&theme=tokyonight)  
+<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGimenezFIE&layout=compact&theme=tokyonight)
 
 ---
