@@ -61,16 +61,17 @@
 
 ### 🎖️ Badges
 <p align="center">
-  <a href="https://www.credly.com/badges/85240fc4-b195-4a4c-aefe-e609e20dae65/linked_in_profile">
-    <img src="https://img.shields.io/badge/Cisco%20Networking%20Devices-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <a href="https://www.credly.com/badges/d26ee5c8-e2fa-41e7-8646-c04d014ddf89/linked_in_profile">
+    <img src="https://img.shields.io/badge/CyberOps%20Associate-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/3d51785b-896b-4920-8bbc-1d6013098da6/linked_in_profile">
-    <img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
-  <a href="https://www.credly.com/badges/d26ee5c8-e2fa-41e7-8646-c04d014ddf89/linked_in_profile">
-    <img src="https://img.shields.io/badge/Cisco%20Intro%20to%20Cybersecurity-green?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <a href="https://www.credly.com/badges/85240fc4-b195-4a4c-aefe-e609e20dae65">
+    <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-green?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 ### 📊 GitHub Stats
