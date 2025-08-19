@@ -25,11 +25,13 @@
 </p>
 
 #### 🔐 Cybersecurity & Networking
-- **Cisco Packet Tracer** – Network simulation  
-- **Wireshark** – Network analysis and traffic sniffing  
-- **Nmap** – Network scanning and security auditing  
-- **Kali Linux** – Penetration testing & cybersecurity toolkit  
-- **Metasploitable** – Vulnerable environment for security testing  
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploitable-EF3B2D?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
 
 ---
 
