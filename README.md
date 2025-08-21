@@ -126,9 +126,9 @@
 
 ---
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AgustinGimenezFIE&show_icons=true&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api?username=agustinhgimenez&show_icons=true&theme=tokyonight)  
 <br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGimenezFIE&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinhgimenez&layout=compact&theme=tokyonight)
 
 ---
 
